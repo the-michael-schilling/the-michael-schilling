@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @the-michael-schilling
 - 👀 I’m interested in using a dash of code here and there to unlock the potential of our communities.
 - 🌱 I’m currently learning how to prototype projects using React Native & JavaScript.
-- 💞️ I’m looking to collaborate on anything that makes the world more connected, open & inclusive.
 - 📫 Just send me a message over Email.
 
 <!---
